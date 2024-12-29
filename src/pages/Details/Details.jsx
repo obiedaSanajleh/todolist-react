@@ -1,7 +1,7 @@
 import React from 'react'
 import './../.././../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import './../../../node_modules/bootstrap/dist/js/bootstrap.min.js';
-import logo from '../../images/mr.obieda.logo.jpg';
+import logo from './images/logo.jpg';
 function Details() {
   return (
     <>
